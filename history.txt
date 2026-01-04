@@ -1,0 +1,16 @@
+  987  nano .gitignore
+  988  nano .gitignore
+  989  git status
+  990  nano README.md
+  991  nano .gitignore
+  992  git add README.md .gitignore
+  993  git commit -m "Update README and gitignore"
+  994  git push -u origin feature
+  995  git commit --amend -m "Update README and gitignore ammend"
+  996  git push --force
+  997  git checkout main
+  998  git status
+  999  git branch
+ 1000  \tgit pull origin main
+ 1001  git merge feature
+ 1002  git push origin main
